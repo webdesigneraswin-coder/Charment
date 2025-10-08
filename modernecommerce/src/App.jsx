@@ -22,7 +22,7 @@ function App() {
         <Navbar />
         <ScrollToTop />
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/Charment" element={<Home />} />
           <Route path="/minimalelegence" element={<Minimal />} />
           <Route path="/bridalbliss" element={<Bridal />} />
           <Route path="/timelessclassics" element={<Timeless />} />
